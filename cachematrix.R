@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This program is for Cache the data while calculate the inverse of the matrix.
 
 ## make a special list cotains four functions(set/get matrix/inverse)
 
